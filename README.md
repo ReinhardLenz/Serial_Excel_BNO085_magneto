@@ -7,12 +7,13 @@ THe program serial_Excel.ino is running in Arduino, which is ocnnected via USB c
 
 ![arduino-computer-connected](https://github.com/user-attachments/assets/80b032db-1dd5-4b8e-a723-2fdc6002f18e)
 
-The upper chart contains  the calibrated magnetic field strength in nT (nano Teslo)
-
-The lower chart contains the "RawMAgnetometer) data. from the Reference manual: The magnetometer sensor reports raw readings from the physical magnetometer sensor. The
+The upper  chart contains the "RawMAgnetometer) data. from the Reference manual: The magnetometer sensor reports raw readings from the physical magnetometer sensor. The
 units are ADCs. Interpretation of the reported values is sensor dependent. The report ID is 0x16.
 
 https://www.ceva-ip.com/wp-content/uploads/2019/10/SH-2-Reference-Manual.pdf
+
+The lower chart contains  the calibrated magnetic field strength in nT (nano Teslo)
+
 
 ![image](https://github.com/user-attachments/assets/43f012bc-ff6d-4967-995b-b803effe1596)
 
