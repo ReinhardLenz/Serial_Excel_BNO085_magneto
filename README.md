@@ -5,7 +5,7 @@ Files are stored by default in  c:\temp\arduino\serial_Excel\ folder
 
 THe program serial_Excel.ino is running in Arduino, which is ocnnected via USB cable to computer.
 
-![arduino-computer-connected](https://github.com/user-attachments/assets/80b032db-1dd5-4b8e-a723-2fdc6002f18e)
+![arduino-computer-connected](https://github.com/user-attachments/assets/3bdcb9c8-0bce-45cf-81fa-909b527736a1)
 
 The upper  chart contains the "RawMAgnetometer) data. from the Reference manual: The magnetometer sensor reports raw readings from the physical magnetometer sensor. The
 units are ADCs. Interpretation of the reported values is sensor dependent. The report ID is 0x16.
